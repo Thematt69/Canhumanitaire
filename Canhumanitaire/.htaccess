@@ -1,0 +1,4 @@
+ErrorDocument 401 http://canhumanitaire.fr/erreur401.php
+ErrorDocument 402 http://canhumanitaire.fr/erreur402.php
+ErrorDocument 403 /erreur403.php
+ErrorDocument 404 http://canhumanitaire.fr/erreur404.php
